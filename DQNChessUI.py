@@ -288,6 +288,6 @@ for game_num in range(num_self_play_games):
 
 torch.save(agent.model.state_dict(), 'best_model.pth')
 
-pygame.quit()
+# pygame.quit()
 print("----- stats finished -----")
 print(stats)
