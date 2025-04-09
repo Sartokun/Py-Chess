@@ -51,7 +51,7 @@ Input (board) → Hidden layers → Q-value ของแต่ละการเ
 
 1. Clone โปรเจกต์นี้
 ```bash
-git clone https://github.com/yourusername/gardnerChessAi.git
+git clone https://github.com/Sartokun/Py-Chess.git
 cd gardnerChessAi
 ```
 
