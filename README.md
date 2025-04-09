@@ -150,6 +150,7 @@ AI จะเล่นกับตัวเองทั้งหมด แบบ�
 ## 📚 อ้างอิง
 
 - [Gardner Chess AI (GitHub)](https://github.com/flowun/gardnerChessAi)
+![screenshot-placeholder](screenshot/example_game.gif)
 - [AlphaZero Concept - Chess.com](https://www.chess.com/terms/alphazero-chess-engine)
 
 ---
